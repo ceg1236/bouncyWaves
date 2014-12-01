@@ -1,0 +1,19 @@
+{
+  "name": "bouncyWaves",
+  "version": "0.0.0",
+  "authors": [
+    "Carl Goldberg <carlgoldberg1236@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leapjs": "~0.6.2"
+  }
+}
